@@ -1,10 +1,10 @@
-package com.dicoding.exam.exam4
+    package com.dicoding.exam.exam4
 
-private fun main() {
-    println(
-        """
-        My Map Result:
-        ${vehicle()}
-        """.trimIndent()
-    )
-}
+    private fun main() {
+        println(
+            """
+            My Map Result:
+            ${vehicle()}
+            """.trimIndent()
+        )
+    }
