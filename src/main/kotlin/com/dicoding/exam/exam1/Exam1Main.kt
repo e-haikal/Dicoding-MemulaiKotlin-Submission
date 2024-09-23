@@ -3,16 +3,16 @@ package com.dicoding.exam.exam1
 private fun main() {
     println(
         """
-            ${isEvenNumber(1)}
-            ${moreThanFive(1)}
+            ${isEvenNumber(77)}
+            ${moreThanFive(5)}
             ${result(1)}
         """.trimIndent()
     )
 
     println(
         """
-            ${isEvenNumber(10)}
-            ${moreThanFive(10)}
+            ${isEvenNumber(88)}
+            ${moreThanFive(88)}
             ${result(10)}
         """.trimIndent()
     )
