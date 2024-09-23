@@ -6,10 +6,10 @@ This checklist outlines the essential and optional tasks required to complete my
 | Task | Description      | Status |
 |---|------------------|--------|
 | exam1 | **Fundamental**  | ✅      |
-| exam2 | **Control Flow** | ❌        |
-| exam3 | **Generics**     | ❌        |
-| exam4 | **Collections**  | ❌        |
-| exam5 | **Coroutines**   | ❌        |
+| exam2 | **Control Flow** | ✅        |
+| exam3 | **Generics**     | ✅        |
+| exam4 | **Collections**  | ✅        |
+| exam5 | **Coroutines**   | ✅        |
 
 
 **Optional Tasks**
