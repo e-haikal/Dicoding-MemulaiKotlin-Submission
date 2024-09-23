@@ -1,9 +1,23 @@
-# Proyek Submission MPK 
+# Proyek Submission MPK
+This checklist outlines the essential and optional tasks required to complete my submission project.
 
-**Aturan mengerjakan submission**<br>
-Agar tugas submission dapat diperiksa dan diterima dengan baik, sebaiknya hindari beberapa hal berikut:
+**Required Tasks**
 
-- Mengubah kode yang berada di dalam fungsi main()
-- Mengubah (kecuali untuk mengerjakan TODO) atau menghapus kode yang sudah ada
-- Membuat fungsi baru yang bukan merupakan tugas latihan
-- Mengubah struktur project (menghapus, mengubah, atau memindahkan package)
+| Task | Description      | Status) |
+|---|------------------|---------|
+| exam1 | **Fundamental**  | ✅       |
+| exam2 | **Control Flow** | ✅       |
+| exam3 | **Generics**     | ✅       |
+| exam4 | **Collections**  | ✅       |
+| exam5 | **Coroutines**   | ✅       |
+
+
+**Optional Tasks**
+
+| Task          | Description               | Status) |
+|---------------|---------------------------|---------|
+| optionalexam1 | **Sum of Big Three**      | ✅       |
+| optionalexam2         | **Min and Max**           | ✅       |
+| optionalexam3         | **Manipulate String**     | ✅       |
+| optionalexam4         | **Get Middle Characters** | ✅       |
+| optionalexam5         | **Concat String**         | ✅       |
