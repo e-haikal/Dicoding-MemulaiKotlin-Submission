@@ -1,7 +1,7 @@
 # Proyek Submission MPK
 This checklist outlines the essential and optional tasks required to complete my submission project.
 
-**Required Tasks**
+**Required Exams**
 
 | Task | Description      | Status |
 |---|------------------|--------|
@@ -12,7 +12,7 @@ This checklist outlines the essential and optional tasks required to complete my
 | exam5 | **Coroutines**   | ✅        |
 
 
-**Optional Tasks**
+**Optional Exams**
 
 | Task          | Description               | Status |
 |---------------|---------------------------|---------|
